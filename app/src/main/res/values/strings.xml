@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ModeGG</string>
+    <string name="title_activity_home">home</string>
+    <string name="navigation_drawer_open">Abrir Navigation Drawer</string>
+    <string name="navigation_drawer_close">Cerrar Navigation Drawer</string>
+    <string name="nav_header_title">Nombre del Usuario</string>
+    <string name="nav_header_subtitle">Correo del Usuario</string>
+    <string name="nav_header_desc">Perfil del usuario</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="default_web_client_id">437398751289-odv8ho0n6eec2akkvk5s7hk6bu6t6ce0.apps.googleusercontent.com</string>
+</resources>

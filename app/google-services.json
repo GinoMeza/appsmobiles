@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "437398751289",
+    "project_id": "modegg-8a7e9",
+    "storage_bucket": "modegg-8a7e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437398751289:android:b260ec9c611543c0a925e8",
+        "android_client_info": {
+          "package_name": "com.gin.modegg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437398751289-2a9p4j7t3q42fqknku8qmbgqvjmd7q85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gin.modegg",
+            "certificate_hash": "e8771da00e6c5d43f1005cdbca7b99f9b5cd734b"
+          }
+        },
+        {
+          "client_id": "437398751289-odv8ho0n6eec2akkvk5s7hk6bu6t6ce0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVIm_mSxgV6oazoNBUJX0jr7oJGTDz0S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437398751289-odv8ho0n6eec2akkvk5s7hk6bu6t6ce0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

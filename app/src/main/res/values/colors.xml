@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- Colores primary -->
+    <color name="colorPrimary">#350081</color>
+    <color name="colorPrimaryDark">#240077</color>
+    <color name="colorAccent">#03DA0E</color>
+    <color name="purple_500">#4B0082</color> <!-- Morado oscuro -->
+    <color name="teal_700">#018786</color>
+    <color name="darker_gray">#A9A9A9</color>
+</resources>
